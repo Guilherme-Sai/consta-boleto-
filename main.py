@@ -15,7 +15,7 @@ from selenium.common.exceptions import WebDriverException
 from webdriver_manager.chrome import ChromeDriverManager
  
 
-URL_BOLETO = "https://homebanking.srmasset.com/boleto"
+URL_BOLETO = ""
 ARQUIVO_CNPJS = r'Gui  - boletos/CNPJconsulta.txt'
 ARQUIVO_SAIDA = 'relatorio_final_boletos.xlsx'
 ARQUIVO_TXT = 'relatorio_final_boletos.txt'
